@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3.10
-
 # imports
 import sys
 import os
