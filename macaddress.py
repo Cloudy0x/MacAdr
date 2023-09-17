@@ -135,6 +135,3 @@ while True:
 
 
     print(color.reset , "\n")
-
-
-# By ydnaCieR
